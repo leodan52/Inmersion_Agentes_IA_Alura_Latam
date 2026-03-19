@@ -2,6 +2,23 @@
 
 ## Requerimientos
 
+Este proyecto requiere **Python 3.12+**.
+
+## Instalación
+
+1. Clona el repositorio:
+ 	>```bash
+ 	> git clone https://github.com/tu-usuario/proyecto.git
+ 	>```
+2. Crea un entorno virtual (opcional):
+   	>```bash
+ 	> python -m venv venv
+ 	>```
+3. Activa el entorno e instala las dependencias:
+	>```bash
+ 	> pip install -r requirements.txt
+ 	>```
+
 ## Descripción
 
 Notas de la Inmersión Dev, Agentes de AI, impartida por Alura Latam. En esta se realiza una breve introducción al mundo de los Agentes de AI, con una duración de 3 días. Las clases se liberaron los días 16, 17 y 18 de marzo del 2026, una por día.

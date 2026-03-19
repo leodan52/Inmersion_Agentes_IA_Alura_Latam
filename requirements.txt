@@ -1,0 +1,12 @@
+faiss-cpu==1.13.2
+fpdf2==2.8.7
+google_search_results==2.4.2
+google-genai==1.67.0
+langchain-community==0.4.1
+langchain-google-genai==4.2.1
+langchain-text-splitters==1.1.1
+langgraph==1.1.2
+Markdown==3.10.2
+protobuf==7.34.0
+pypdf==6.9.1
+python-dotenv==1.2.2
