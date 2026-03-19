@@ -36,4 +36,23 @@ Estas son las estadísticas de uso de recursos de mi programa al extender los l�
 
 ![limites_nuevos](images/Limites_usados_por_proyecto.png)
 
-Lamentablemente, la información de costo de consumo tarda hasta 24 hrs en procesarse, por lo que tendré que esperar para tenerla.
+El costo de las solicitudes hechas al modelo **Gemini Embedding 1**, fue de apenas **$0.09 MXN** (pesos mexicanos),
+
+![limites_nuevos](images/costo_ejecucion_embedding.png)
+
+Y el costo de las solicitudes para el motor **Gemini 2.5 Flash**, fue de **$0.33 MXN**,
+
+![limites_nuevos](images/costo_ejecucion_gemini.png)
+
+Esto dio un total de **$0.42 MXN** por la ejecución de todo el código en este repositorio.
+
+Lamentablemente, y como es común en muchas transacciones, la tasa de cambio con el dólar estadounidense (USD), los costos de operación y las comisiones por cambios de divisas, son omitidas; o bien es complicado llegar a ellas. Por eso, lo mejor es realizar una estimación usando el rango de cambio **$17.50-$17.73 MXN por USD**.
+
+
+| Modelo             | MXN       | USD                         |
+|--------------------|:---------:|:---------------------------:|
+| Gemini 2.5 Flash   | $0.33     | ~ \$0.01896 - \$0.01861     |
+| Gemini Embedding 1 | $0.09     | ~ \$0.00514 - \$0.00507     |
+| **Total**          | **$0.42** | **~ \$0.02400 - \$0.02369** |
+
+Al final, el cargo que se hará a mi tarjeta será de **$0.49 MXN incluyendo impuestos** (16% de IVA). Toda la ejecución me costó nada más y nada menos que un tostón.
